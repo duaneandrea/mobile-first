@@ -1,0 +1,19 @@
+{
+  "name": "mobile-first",
+  "version": "1.0.0",
+  "description": "This is the first part of the portfolio project at Microrvese",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duaneandrea/mobile-first.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duaneandrea/mobile-first/issues"
+  },
+  "homepage": "https://github.com/duaneandrea/mobile-first#readme"
+}
