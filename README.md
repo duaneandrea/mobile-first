@@ -107,7 +107,7 @@ Deploy this project on any websever
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Enoh Collins**
+👤 **Simbarashe Duane Andrea**
 
 - GitHub: [@githubhandle](https://github.com/duaneandrea)
 
